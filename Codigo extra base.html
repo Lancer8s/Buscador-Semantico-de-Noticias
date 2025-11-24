@@ -1,0 +1,35 @@
+<!-- Dark Mode Toggle pertenece a la linea 184 de base.html devolver despues-->
+      <div class="dark-mode-toggle">
+        <button id="darkModeToggle" class="btn btn-secondary">
+          <i class="bi {{ 'bi-sun' if dark_mode else 'bi-moon' }}"></i>
+          {{ translations['light_mode' if dark_mode else
+          'dark_mode'][current_lang] }}
+        </button>
+      </div>
+
+      <!-- Language Selector -->
+      <div class="language-selector dropdown">
+        <button
+          class="btn btn-secondary dropdown-toggle"
+          type="button"
+          id="languageDropdown"
+          data-bs-toggle="dropdown"
+          aria-expanded="false"
+        >
+          <i class="bi bi-translate"></i> {{ languages[current_lang] }}
+        </button>
+        <ul
+          class="dropdown-menu dropdown-menu-end"
+          aria-labelledby="languageDropdown"
+        >
+          {% for code, name in languages.items() %}
+          <li>
+            <a
+              class="dropdown-item"
+              href="{{ url_for('search', lang=code, keyword=keyword) }}"
+              >{{ name }}</a
+            >
+          </li>
+          {% endfor %}
+        </ul>
+      </div>
