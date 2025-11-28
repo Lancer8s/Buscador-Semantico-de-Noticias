@@ -1,0 +1,477 @@
+{
+  "http://dbpedia.org/resource/Bolivia": {
+    "uri": "http://dbpedia.org/resource/Bolivia",
+    "label": "Bolivia",
+    "abstract": "Bolivia es un país ubicado en Sudamérica. Comparte fronteras con Brasil, Perú, Chile, Argentina y Paraguay.",
+    "language": "en",
+    "categories": [
+      "Countries",
+      "South America"
+    ],
+    "properties": {
+      "capital": "La Paz",
+      "population": "11,832,940"
+    },
+    "thumbnail": null,
+    "birthDate": null,
+    "deathDate": null
+  },
+  "http://dbpedia.org/resource/Cochabamba": {
+    "uri": "http://dbpedia.org/resource/Cochabamba",
+    "label": "Cochabamba",
+    "abstract": "Cochabamba es una ciudad ubicada en el valle del Cochabamba, en el centro de Bolivia.",
+    "language": "en",
+    "categories": [
+      "Cities in Bolivia"
+    ],
+    "properties": {
+      "country": "Bolivia",
+      "elevation": "2558m"
+    },
+    "thumbnail": null,
+    "birthDate": null,
+    "deathDate": null
+  },
+  "http://dbpedia.org/resource/La_Paz": {
+    "uri": "http://dbpedia.org/resource/La_Paz",
+    "label": "La Paz",
+    "abstract": "La Paz es la capital administrativo de Bolivia y la sede de los organismos ejecutivo y legislativo.",
+    "language": "en",
+    "categories": [
+      "Capitals of South America"
+    ],
+    "properties": {
+      "country": "Bolivia",
+      "elevation": "3650m"
+    },
+    "thumbnail": null,
+    "birthDate": null,
+    "deathDate": null
+  },
+  "http://dbpedia.org/resource/Dengue": {
+    "uri": "http://dbpedia.org/resource/Dengue",
+    "label": "Dengue",
+    "abstract": "El dengue es una enfermedad infecciosa causada por el virus del dengue.",
+    "language": "en",
+    "categories": [
+      "Infectious diseases",
+      "Tropical diseases"
+    ],
+    "properties": {
+      "virus": "Dengue virus",
+      "transmission": "Mosquito"
+    },
+    "thumbnail": null,
+    "birthDate": null,
+    "deathDate": null
+  },
+  "http://dbpedia.org/resource/COVID-19": {
+    "uri": "http://dbpedia.org/resource/COVID-19",
+    "label": "COVID-19",
+    "abstract": "COVID-19 es la enfermedad infecciosa causada por el coronavirus SARS-CoV-2.",
+    "language": "en",
+    "categories": [
+      "Pandemic",
+      "Infectious diseases"
+    ],
+    "properties": {
+      "pathogen": "SARS-CoV-2",
+      "firstCase": "2019"
+    },
+    "thumbnail": null,
+    "birthDate": null,
+    "deathDate": null
+  },
+  "http://dbpedia.org/resource/Atocha,_Bolivia": {
+    "uri": "http://dbpedia.org/resource/Atocha,_Bolivia",
+    "label": "Atocha, Bolivia",
+    "abstract": "",
+    "language": "en",
+    "categories": [
+      "DBpedia",
+      "Bolivia"
+    ],
+    "properties": {},
+    "thumbnail": null,
+    "birthDate": null,
+    "deathDate": null
+  },
+  "http://dbpedia.org/resource/Bermejo,_Bolivia": {
+    "uri": "http://dbpedia.org/resource/Bermejo,_Bolivia",
+    "label": "Bermejo, Bolivia",
+    "abstract": "",
+    "language": "en",
+    "categories": [
+      "DBpedia",
+      "Bolivia"
+    ],
+    "properties": {},
+    "thumbnail": null,
+    "birthDate": null,
+    "deathDate": null
+  },
+  "http://dbpedia.org/resource/Category:Calderas_of_Bolivia": {
+    "uri": "http://dbpedia.org/resource/Category:Calderas_of_Bolivia",
+    "label": "Calderas of Bolivia",
+    "abstract": "",
+    "language": "en",
+    "categories": [
+      "DBpedia",
+      "Bolivia"
+    ],
+    "properties": {},
+    "thumbnail": null,
+    "birthDate": null,
+    "deathDate": null
+  },
+  "http://dbpedia.org/resource/Category:20th-century_Bolivian_LGBTQ_people": {
+    "uri": "http://dbpedia.org/resource/Category:20th-century_Bolivian_LGBTQ_people",
+    "label": "20th-century Bolivian LGBTQ people",
+    "abstract": "",
+    "language": "en",
+    "categories": [
+      "DBpedia",
+      "Bolivia"
+    ],
+    "properties": {},
+    "thumbnail": null,
+    "birthDate": null,
+    "deathDate": null
+  },
+  "http://dbpedia.org/resource/Category:20th-century_Bolivian_artists": {
+    "uri": "http://dbpedia.org/resource/Category:20th-century_Bolivian_artists",
+    "label": "20th-century Bolivian artists",
+    "abstract": "",
+    "language": "en",
+    "categories": [
+      "DBpedia",
+      "Bolivia"
+    ],
+    "properties": {},
+    "thumbnail": null,
+    "birthDate": null,
+    "deathDate": null
+  },
+  "http://dbpedia.org/resource/Abel_Ndenguet": {
+    "uri": "http://dbpedia.org/resource/Abel_Ndenguet",
+    "label": "Abel Ndenguet",
+    "abstract": "",
+    "language": "en",
+    "categories": [
+      "DBpedia",
+      "Dengue"
+    ],
+    "properties": {},
+    "thumbnail": null,
+    "birthDate": null,
+    "deathDate": null
+  },
+  "http://dbpedia.org/resource/Category:Economic_impact_of_the_COVID-19_pandemic": {
+    "uri": "http://dbpedia.org/resource/Category:Economic_impact_of_the_COVID-19_pandemic",
+    "label": "Economic impact of the COVID-19 pandemic",
+    "abstract": "",
+    "language": "en",
+    "categories": [
+      "DBpedia",
+      "COVID-19"
+    ],
+    "properties": {},
+    "thumbnail": null,
+    "birthDate": null,
+    "deathDate": null
+  },
+  "http://dbpedia.org/resource/Category:Deaths_from_the_COVID-19_pandemic_in_the_Republic_of_Ireland": {
+    "uri": "http://dbpedia.org/resource/Category:Deaths_from_the_COVID-19_pandemic_in_the_Republic_of_Ireland",
+    "label": "Deaths from the COVID-19 pandemic in the Republic of Ireland",
+    "abstract": "",
+    "language": "en",
+    "categories": [
+      "DBpedia",
+      "COVID-19"
+    ],
+    "properties": {},
+    "thumbnail": null,
+    "birthDate": null,
+    "deathDate": null
+  },
+  "http://dbpedia.org/resource/Category:COVID-19_pandemic_in_New_York_City": {
+    "uri": "http://dbpedia.org/resource/Category:COVID-19_pandemic_in_New_York_City",
+    "label": "COVID-19 pandemic in New York City",
+    "abstract": "",
+    "language": "en",
+    "categories": [
+      "DBpedia",
+      "COVID-19"
+    ],
+    "properties": {},
+    "thumbnail": null,
+    "birthDate": null,
+    "deathDate": null
+  },
+  "http://dbpedia.org/resource/Category:Hospital_ships_involved_in_the_COVID-19_pandemic": {
+    "uri": "http://dbpedia.org/resource/Category:Hospital_ships_involved_in_the_COVID-19_pandemic",
+    "label": "Hospital ships involved in the COVID-19 pandemic",
+    "abstract": "",
+    "language": "en",
+    "categories": [
+      "DBpedia",
+      "COVID-19"
+    ],
+    "properties": {},
+    "thumbnail": null,
+    "birthDate": null,
+    "deathDate": null
+  },
+  "http://dbpedia.org/resource/Category:Deaths_from_the_COVID-19_pandemic_in_Delaware": {
+    "uri": "http://dbpedia.org/resource/Category:Deaths_from_the_COVID-19_pandemic_in_Delaware",
+    "label": "Deaths from the COVID-19 pandemic in Delaware",
+    "abstract": "",
+    "language": "en",
+    "categories": [
+      "DBpedia",
+      "COVID-19"
+    ],
+    "properties": {},
+    "thumbnail": null,
+    "birthDate": null,
+    "deathDate": null
+  },
+  "http://dbpedia.org/resource/Category:Fake_news_in_Asia": {
+    "uri": "http://dbpedia.org/resource/Category:Fake_news_in_Asia",
+    "label": "Fake news in Asia",
+    "abstract": "",
+    "language": "en",
+    "categories": [
+      "DBpedia",
+      "Fake news"
+    ],
+    "properties": {},
+    "thumbnail": null,
+    "birthDate": null,
+    "deathDate": null
+  },
+  "http://dbpedia.org/resource/Russian_fake_news_laws": {
+    "uri": "http://dbpedia.org/resource/Russian_fake_news_laws",
+    "label": "Russian fake news laws",
+    "abstract": "",
+    "language": "en",
+    "categories": [
+      "DBpedia",
+      "Fake news"
+    ],
+    "properties": {},
+    "thumbnail": null,
+    "birthDate": null,
+    "deathDate": null
+  },
+  "http://dbpedia.org/resource/Fake_news_website": {
+    "uri": "http://dbpedia.org/resource/Fake_news_website",
+    "label": "Fake news website",
+    "abstract": "",
+    "language": "en",
+    "categories": [
+      "DBpedia",
+      "Fake news"
+    ],
+    "properties": {},
+    "thumbnail": null,
+    "birthDate": null,
+    "deathDate": null
+  },
+  "http://dbpedia.org/resource/Category:Fake_news_in_the_United_States": {
+    "uri": "http://dbpedia.org/resource/Category:Fake_news_in_the_United_States",
+    "label": "Fake news in the United States",
+    "abstract": "",
+    "language": "en",
+    "categories": [
+      "DBpedia",
+      "Fake news"
+    ],
+    "properties": {},
+    "thumbnail": null,
+    "birthDate": null,
+    "deathDate": null
+  },
+  "http://dbpedia.org/resource/Category:Photojournalism_awards": {
+    "uri": "http://dbpedia.org/resource/Category:Photojournalism_awards",
+    "label": "Photojournalism awards",
+    "abstract": "",
+    "language": "en",
+    "categories": [
+      "DBpedia",
+      "Journalism"
+    ],
+    "properties": {},
+    "thumbnail": null,
+    "birthDate": null,
+    "deathDate": null
+  },
+  "http://dbpedia.org/resource/Category:Video_game_journalism": {
+    "uri": "http://dbpedia.org/resource/Category:Video_game_journalism",
+    "label": "Video game journalism",
+    "abstract": "",
+    "language": "en",
+    "categories": [
+      "DBpedia",
+      "Journalism"
+    ],
+    "properties": {},
+    "thumbnail": null,
+    "birthDate": null,
+    "deathDate": null
+  },
+  "http://dbpedia.org/resource/Category:Helen_Bernstein_Book_Award_for_Excellence_in_Journalism": {
+    "uri": "http://dbpedia.org/resource/Category:Helen_Bernstein_Book_Award_for_Excellence_in_Journalism",
+    "label": "Helen Bernstein Book Award for Excellence in Journalism",
+    "abstract": "",
+    "language": "en",
+    "categories": [
+      "DBpedia",
+      "Journalism"
+    ],
+    "properties": {},
+    "thumbnail": null,
+    "birthDate": null,
+    "deathDate": null
+  },
+  "http://dbpedia.org/resource/Pop_journalism": {
+    "uri": "http://dbpedia.org/resource/Pop_journalism",
+    "label": "Pop journalism",
+    "abstract": "",
+    "language": "en",
+    "categories": [
+      "DBpedia",
+      "Journalism"
+    ],
+    "properties": {},
+    "thumbnail": null,
+    "birthDate": null,
+    "deathDate": null
+  },
+  "http://dbpedia.org/resource/Category:Journalism_by_genre": {
+    "uri": "http://dbpedia.org/resource/Category:Journalism_by_genre",
+    "label": "Journalism by genre",
+    "abstract": "",
+    "language": "en",
+    "categories": [
+      "DBpedia",
+      "Journalism"
+    ],
+    "properties": {},
+    "thumbnail": null,
+    "birthDate": null,
+    "deathDate": null
+  },
+  "http://dbpedia.org/resource/Category:News_media_in_Liberia": {
+    "uri": "http://dbpedia.org/resource/Category:News_media_in_Liberia",
+    "label": "News media in Liberia",
+    "abstract": "",
+    "language": "en",
+    "categories": [
+      "DBpedia",
+      "News media"
+    ],
+    "properties": {},
+    "thumbnail": null,
+    "birthDate": null,
+    "deathDate": null
+  },
+  "http://dbpedia.org/resource/Category:News_media_in_Algeria": {
+    "uri": "http://dbpedia.org/resource/Category:News_media_in_Algeria",
+    "label": "News media in Algeria",
+    "abstract": "",
+    "language": "en",
+    "categories": [
+      "DBpedia",
+      "News media"
+    ],
+    "properties": {},
+    "thumbnail": null,
+    "birthDate": null,
+    "deathDate": null
+  },
+  "http://dbpedia.org/resource/Category:News_media_in_Cuba": {
+    "uri": "http://dbpedia.org/resource/Category:News_media_in_Cuba",
+    "label": "News media in Cuba",
+    "abstract": "",
+    "language": "en",
+    "categories": [
+      "DBpedia",
+      "News media"
+    ],
+    "properties": {},
+    "thumbnail": null,
+    "birthDate": null,
+    "deathDate": null
+  },
+  "http://dbpedia.org/resource/Category:News_media_in_Estonia": {
+    "uri": "http://dbpedia.org/resource/Category:News_media_in_Estonia",
+    "label": "News media in Estonia",
+    "abstract": "",
+    "language": "en",
+    "categories": [
+      "DBpedia",
+      "News media"
+    ],
+    "properties": {},
+    "thumbnail": null,
+    "birthDate": null,
+    "deathDate": null
+  },
+  "http://dbpedia.org/resource/Category:News_media_in_Iraq": {
+    "uri": "http://dbpedia.org/resource/Category:News_media_in_Iraq",
+    "label": "News media in Iraq",
+    "abstract": "",
+    "language": "en",
+    "categories": [
+      "DBpedia",
+      "News media"
+    ],
+    "properties": {},
+    "thumbnail": null,
+    "birthDate": null,
+    "deathDate": null
+  },
+  "http://dbpedia.org/resource/Bolivia_es": {
+    "uri": "http://dbpedia.org/resource/Bolivia_es",
+    "label": "Bolivia",
+    "abstract": "Bolivia es un país ubicado en Sudamérica. Limita con Brasil, Perú, Chile, Argentina y Paraguay.",
+    "language": "es",
+    "categories": [
+      "Countries",
+      "South America"
+    ],
+    "properties": {},
+    "thumbnail": null,
+    "birthDate": null,
+    "deathDate": null
+  },
+  "http://dbpedia.org/resource/Dengue_es": {
+    "uri": "http://dbpedia.org/resource/Dengue_es",
+    "label": "Dengue",
+    "abstract": "El dengue es una enfermedad infecciosa viral transmitida por mosquitos del género Aedes.",
+    "language": "es",
+    "categories": [
+      "Infectious diseases",
+      "Tropical diseases"
+    ],
+    "properties": {},
+    "thumbnail": null,
+    "birthDate": null,
+    "deathDate": null
+  },
+  "http://dbpedia.org/resource/COVID-19_es": {
+    "uri": "http://dbpedia.org/resource/COVID-19_es",
+    "label": "COVID-19",
+    "abstract": "COVID-19 es la enfermedad infecciosa causada por el coronavirus SARS-CoV-2.",
+    "language": "es",
+    "categories": [
+      "Pandemic",
+      "Infectious diseases"
+    ],
+    "properties": {},
+    "thumbnail": null,
+    "birthDate": null,
+    "deathDate": null
+  }
+}
