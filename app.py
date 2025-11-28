@@ -116,9 +116,9 @@ TRANSLATIONS = {
         'pt': 'Resultados Inferidos'
     },
     'back': {
-        'es': '← Volver',
-        'en': '← Back',
-        'pt': '← Voltar'
+        'es': 'Volver',
+        'en': 'Back',
+        'pt': 'Voltar'
     },
     'news_details': {
         'es': 'Detalle de la Noticia',
